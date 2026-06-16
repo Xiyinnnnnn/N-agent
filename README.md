@@ -1,4 +1,4 @@
-
+https://xiyinnnnnn.github.io/N-agent/index.html
 # N-agent
 
 浏览器内运行的小说创作引擎。1 个主编 + 21 个子 Agent，真 tool calling + SSE 流式。单 HTML 文件，零构建，零后端。
